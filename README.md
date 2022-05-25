@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dataciden
 - 👀 I’m interested in DevOps roles
-- 🌱 I’m currently learning kustomize
+- 🌱 I’m currently learning istio service mesh
 - 💞️ I’m looking to collaborate on anything kubernetes
 - 📫 dataciden@gmail.com
 
